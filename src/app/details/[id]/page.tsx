@@ -1,5 +1,5 @@
 "use client";
-import DetailsPage from "@/app/components/DetailsPage";
+import DetailsPage from "@/app/_components/DetailsPage";
 import { useParams } from "next/navigation";
 
 const DetailsArticle = () => {
