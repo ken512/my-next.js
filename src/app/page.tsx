@@ -1,5 +1,5 @@
 "use client";
-import PostsList from './components/PostsList';
+import PostsList from './_components/PostsList';
 
 const PostListPage: React.FC = () => {
   return (
