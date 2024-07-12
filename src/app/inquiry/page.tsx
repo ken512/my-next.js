@@ -1,5 +1,5 @@
 "use client";
-import InquiryPage from "@/app/components/InquiryPage";
+import InquiryPage from "@/app/_components/InquiryPage";
 
 const Inquiry = () => {
   return <InquiryPage/>
