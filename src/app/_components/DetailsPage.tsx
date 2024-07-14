@@ -3,7 +3,7 @@ import React from "react";
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import "@/app/styles/globals.css";
+import "@/app/_styles/globals.css";
 
 type detailsType = {
   id: number;
