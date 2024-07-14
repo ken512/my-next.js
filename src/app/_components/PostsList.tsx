@@ -2,7 +2,7 @@
 import React from "react";
 import { useEffect, useState } from "react";
 import  Link  from "next/link";
-import "@/app/styles/globals.css"
+import "@/app/_styles/globals.css"
 
 type ArticleType = {
   id: number;
