@@ -2,7 +2,7 @@
 import React from "react";
 import Link from "next/link";
 import { FormEvent, useState } from "react";
-import "@/app/styles/globals.css";
+import "@/app/_styles/globals.css";
 
 type InquiryType = {
   name: string;
